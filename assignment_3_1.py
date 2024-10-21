@@ -1,6 +1,6 @@
 """
 -----------------------------------------------------------------------
-Assignment 3 Problem 1: Quantities of chicken nuggets that fit within available order quantities
+Problem 3.1: Quantities of chicken nuggets that fit within available order quantities
 October 20, 2024 
 Nishigandha Wankhade 
 -----------------------------------------------------------------------
